@@ -1,4 +1,6 @@
-# 🚀 Cisco Packet Tracer Course  
+# 🚀 Cisco Packet Tracer Course
+
+![Banner](./images/banner.png) 
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/azrilpramudia/cisco-packet-tracer-course?style=for-the-badge)  
 
