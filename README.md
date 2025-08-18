@@ -25,6 +25,11 @@ This documentation covers interface configuration, topologies, and server simula
 
 ---
 
+## 🌐 Official Resources
+[![Cisco Networking Academy](https://img.shields.io/badge/Cisco-Networking%20Academy-red?style=for-the-badge&logo=cisco)](https://www.netacad.com/)  
+[![Download Packet Tracer](https://img.shields.io/badge/Download-Packet%20Tracer-blue?style=for-the-badge&logo=cisco)](https://www.netacad.com/courses/packet-tracer) 
+---
+
 ## 🎥 References
 📌 [Learn Full Course](https://youtu.be/ty0HMs48U1k?si=oRu7xAE7oOrg15qX)  
 📌 [Playlist Course](https://www.youtube.com/watch?v=OOA7uqSvBNI&list=PLVFyjfF2Drdt9hXs37KTPTIqtNVCXFfOG)
