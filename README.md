@@ -31,8 +31,8 @@ This documentation covers interface configuration, topologies, and server simula
 ---
 
 ## 🎥 References
-📌 [Learn Full Course](https://youtu.be/ty0HMs48U1k?si=oRu7xAE7oOrg15qX)  
-📌 [Playlist Course](https://www.youtube.com/watch?v=OOA7uqSvBNI&list=PLVFyjfF2Drdt9hXs37KTPTIqtNVCXFfOG)
+[![YouTube - Learn Full Course](https://img.shields.io/badge/YouTube-Learn%20Full%20Course-red?style=for-the-badge&logo=youtube)](https://youtu.be/ty0HMs48U1k?si=oRu7xAE7oOrg15qX)  
+[![YouTube - Playlist Course](https://img.shields.io/badge/YouTube-Playlist%20Course-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=OOA7uqSvBNI&list=PLVFyjfF2Drdt9hXs37KTPTIqtNVCXFfOG)
 
 ---
 
