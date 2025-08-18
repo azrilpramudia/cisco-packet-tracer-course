@@ -43,4 +43,7 @@ This documentation covers interface configuration, topologies, and server simula
 ---
 
 ## 🙏 Acknowledgments
-Thanks for visiting! Hopefully, this repository helps you learn computer networking effectively.
+Thank you for visiting this repository!  
+I hope these resources help you in learning **computer networking** with Cisco Packet Tracer.  
+
+If you find this project useful, don't forget to ⭐ star the repo and share it with others. 🚀
