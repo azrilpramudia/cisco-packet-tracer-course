@@ -20,7 +20,8 @@ This documentation covers interface configuration, topologies, and server simula
 - 🏷️ Simulate DHCP  
 - 📧 Simulate Email Server  
 - 📂 Simulate FTP  
-- 🌍 Simulate HTTP  
+- 🌍 Simulate HTTP
+- 🕹 Simulate IoT (Internet Of Things)
 
 ---
 
